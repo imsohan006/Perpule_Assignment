@@ -5,6 +5,7 @@ Rest service for add and get customer details
  1. Spring boot
  2. Hibernate
  3. Apache derbyDB (Runtime - you loss data when server stoped)
+ 4. JUnit test cases
  
  
 # Rest Services
